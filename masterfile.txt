@@ -1,1 +1,2 @@
 Development continue in Master
+Master line added in line 2
