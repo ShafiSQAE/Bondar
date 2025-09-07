@@ -1,1 +1,2 @@
 Development continue in Master
+Bug Qa text
